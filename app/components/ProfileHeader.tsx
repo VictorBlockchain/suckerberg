@@ -5,14 +5,19 @@ import { UserPlus, MessageCircle } from 'lucide-react'
 export default function ProfileHeader() {
   return (
     <div className="bg-white shadow-md rounded-lg overflow-hidden mb-6">
-      <div className="bg-facebook-blue relative" style={{height:'433px', marginBottom:'36px'}}>
-        <Image
-          src="/Fuck.png?height=200&width=800"
-          alt="Cover Photo"
-          layout="fill"
-          objectFit="cover"
-        />
-      </div>
+<div
+  className="bg-facebook-blue relative w-full"
+  style={{ height: 'auto', marginBottom: '36px' }}
+>
+  <Image
+    src="/Fuck.png"
+    alt="Cover Photo"
+    width={800}
+    height={200}
+    layout="responsive"
+    objectFit="cover"
+  />
+</div>
       <div className="p-4 sm:p-6 flex flex-col sm:flex-row items-center sm:items-end -mt-16 sm:-mt-20 relative">
         <div className="rounded-full border-4 border-white overflow-hidden bg-white">
           <Image
