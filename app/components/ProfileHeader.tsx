@@ -24,7 +24,7 @@ export default function ProfileHeader() {
         </div>
         <div className="mt-4 sm:mt-0 sm:ml-4 text-center sm:text-left flex-grow" >
           <h1 className="text-2xl font-bold mt-3" style={{paddingTop:'13px'}}>M. Suckerberg</h1>
-          <p className="text-gray-600">Founder & CEO at Suckerberg</p>
+          <p className="text-gray-600">Founder & CEO at The Suckbook</p>
           <p className="text-sm text-gray-500 mt-1">1.84B friends (all bots)</p>
         </div>
         <div className="mt-4 sm:mt-0 flex space-x-2">
