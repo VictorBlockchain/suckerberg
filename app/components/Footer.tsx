@@ -4,7 +4,7 @@ export default function Footer() {
       <div className="container mx-auto px-4">
         <div className="flex flex-wrap justify-between items-center">
           <div className="w-full md:w-1/3 mb-6 md:mb-0">
-            <h3 className="text-lg font-bold text-facebook-blue mb-2">Suckerberg</h3>
+            <h3 className="text-lg font-bold text-facebook-blue mb-2">SuckBook</h3>
             <p className="text-sm text-gray-600">Definitely not stealing your data since 2023</p>
           </div>
           <div className="w-full md:w-1/3 mb-6 md:mb-0">
@@ -22,7 +22,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="mt-8 pt-8 border-t border-gray-200 text-center text-sm text-gray-600">
-          <p>&copy; 2025 Suckerberg.xyz. All your rights are belong to us.</p>
+          <p>&copy; 2025 Suckbook.xyz. All your rights are belong to us.</p>
         </div>
       </div>
     </footer>
