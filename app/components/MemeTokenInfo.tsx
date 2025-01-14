@@ -3,7 +3,7 @@ import { Rocket, TrendingUp, Users } from 'lucide-react'
 export default function MemeTokenInfo() {
   return (
     <div className="bg-white rounded-lg shadow-md p-6 mb-6">
-      <h2 className="text-2xl font-bold mb-6 text-facebook-blue">$SUCK Token</h2>
+      <h2 className="text-2xl font-bold mb-6 text-facebook-blue">SUCKBOOK Token</h2>
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
         <div className="flex items-start">
           <Rocket className="text-facebook-blue mr-3 flex-shrink-0" size={24} />
@@ -27,7 +27,7 @@ export default function MemeTokenInfo() {
           </div>
         </div>
       </div>
-      <button className="btn-primary mt-6 w-full text-lg">Buy $SUCK</button>
+      <button className="btn-primary mt-6 w-full text-lg">Buy SUCKBOOK</button>
     </div>
   )
 }
