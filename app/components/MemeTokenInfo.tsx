@@ -9,7 +9,7 @@ export default function MemeTokenInfo() {
           <Rocket className="text-facebook-blue mr-3 flex-shrink-0" size={24} />
           <div>
             <h3 className="font-bold text-lg mb-1">Moon Soon</h3>
-            <p className="text-gray-600">To the moon! 🚀🌕</p>
+            <p className="text-gray-600">nǐ hǎo mother sucker!!! To the moon! 🚀🌕</p>
           </div>
         </div>
         <div className="flex items-start">

@@ -4,7 +4,7 @@ import { Inter } from 'next/font/google'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'Suckerberg - Definitely Not Facebook',
+  title: 'SuckBook - nǐ hǎo mother sucker',
   description: 'A satirical take on the world\'s most invasive social network',
 }
 
